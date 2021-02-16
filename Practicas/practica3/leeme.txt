@@ -1,0 +1,19 @@
+He realizado todas las actividades de la práctica y además he añadido el ejercicio extra
+al que he llamado extra
+
+Los objetos que se visualizan son los siguientes:
+	1: Tetraedro / Piramide
+	2: Cubo 
+	3: Cono
+	4: Cilindro
+	5: Esfera
+	6: Objeto PLY
+	7: Rotacion
+	8: Rotacion PLY
+	9: Ejercicio exta
+	
+Los modos de visualización son los siguientes: 
+	P: Puntos 
+	L: Aristas / Lineas
+	F: Soldio / Fill
+	C: Ajedrez / Chess

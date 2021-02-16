@@ -1,0 +1,67 @@
+
+En la práctica 4 he añadido las luces con el calculo de las normales tanto de vectores como caras, los distintos sombreados , las 2 tipos de luces, las texturas sobre un cubo y el objeto tablero que también es nuevo. He añadido 2 tipos de materiales y la animación de las luces 
+
+
+
+Teclas para el modelo jerarquico o objeto articulado
+0: Activa el modelo jerarquico del demoledor
+A: Activa/Descativa la Animación del demoledor
+F1: Mueve en un sentido la cabina
+F2: Mueve la cabina en sentido contrario
+F3: Mueve en un sentido el brazo
+F4: Mueve el brazo en sentido contrario
+F5: Mueve en un sentido la cuerda
+F6: Mueve la cuerda en sentido contrario
+F7: Mueve en un sentido la bola de demolicion
+F8: Mueve la bola en el sentido contrario
+
+
+Q: Exit
+E: Aumenta la velocidad de giro a la cabina
+R: Disnimuye la velocidad de giro a la cabina
+T: Aumenta la velocidad de giro a el brazo
+Y: Disminuye la velocidad de giro a el brazo
+U: Aumenta la velocidad de giro a la cuerda
+I: Disminuye la velocidad de giro a la cuerda
+G: Aumenta la velocidad de giro a la bola
+H: Disminuye la velocidad de giro a la bola
+
+Los objetos que se visualizan son los siguientes:
+	1: Tetraedro / Piramide
+	2: Cubo 
+	3: Cono
+	4: Cilindro
+	5: Esfera
+	6: Objeto PLY
+	7: Rotacion
+	8: Rotacion PLY
+	9: Ejercicio exta
+	0: Demoledor // El objeto articulado 
+	D: Tablero // Un tablero 3x3 
+	Z: Activamos la luz direcional
+	X: Desactivamos la luz direccional
+	N: Activamos la luz focal
+	M: Desactivamos la luz focal
+	
+Los modos de visualización son los siguientes: 
+	P: Puntos 
+	L: Aristas / Lineas
+	F: Solido / Fill
+	C: Ajedrez / Chess
+	W: Solido con Iluminado Plano
+	O: Solido con Iluminado Gouraud
+	J: Aplicamos el material esmeralda // Si volvemos a pulsar lo desactivamos
+	K: Aplicamos el material oro	// Si volvemos a pulsar lo desactivamos
+	S: Modo textura // Solo tengo texturas para el Cubo y el Tablero
+	A: Activamos la animación (Si están ambas luces activas , activa la animacion de la luz focal)
+	// En caso de que estemos con el objeto articulado realiza su animación
+
+Las teclas de 1-9 realizan lo mismo que en la práctica 2
+
+Para ejecutar el código necesita como argumento: beethoven y rotacion, al igual que en 
+la práctica anterior. Sería así:
+
+./practica_objetos_B4 beethoven rotacion
+
+
+

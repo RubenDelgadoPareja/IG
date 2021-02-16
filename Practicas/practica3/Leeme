@@ -1,0 +1,29 @@
+Para esta práctica he creado un demoledor, es un maquina con una bola de demolición. Los ejes de rotación son la cabina, el brazo, la cuerda que sostiene la bola y la bola.
+
+Como he realizado la práctica sobre la anterior he usado las siguientes teclas:
+0: Activa el modelo jerarquico del demoledor
+A: Activa/Descativa la Animación del demoledor
+F1: Mueve en un sentido la cabina
+F2: Mueve la cabina en sentido contrario
+F3: Mueve en un sentido el brazo
+F4: Mueve el brazo en sentido contrario
+F5: Mueve en un sentido la cuerda
+F6: Mueve la cuerda en sentido contrario
+F7: Mueve en un sentido la bola de demolicion
+F8: Mueve la bola en el sentido contrario
+E: Aumenta la velocidad de giro a la cabina
+R: Disnimuye la velocidad de giro a la cabina
+T: Aumenta la velocidad de giro a el brazo
+Y: Disminuye la velocidad de giro a el brazo
+U: Aumenta la velocidad de giro a la cuerda
+I: Disminuye la velocidad de giro a la cuerda
+G: Aumenta la velocidad de giro a la bola
+H: Disminuye la velocidad de giro a la bola
+
+Las teclas de 1-9 realizan lo mismo que en la práctica 2
+
+Para ejecutar el código necesita como argumento: beethoven y rotacion, al igual que en 
+la práctica anterior. Sería así:
+
+./practica_objetos_B3 beethoven rotacion
+
